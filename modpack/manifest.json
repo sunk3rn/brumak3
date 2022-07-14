@@ -24,17 +24,6 @@
       }
     },
     {
-      "projectID": 59751,
-      "fileID": 3861029,
-      "required": true,
-      "__meta": {
-        "name": "Forestry",
-        "dependencies": [
-          306770
-        ]
-      }
-    },
-    {
       "projectID": 60028,
       "fileID": 3652924,
       "required": true,
@@ -152,14 +141,6 @@
       }
     },
     {
-      "projectID": 231095,
-      "fileID": 3593643,
-      "required": true,
-      "__meta": {
-        "name": "Chisels & Bits - For Forge"
-      }
-    },
-    {
       "projectID": 231484,
       "fileID": 3445172,
       "required": true,
@@ -181,17 +162,6 @@
       "required": true,
       "__meta": {
         "name": "AI Improvements"
-      }
-    },
-    {
-      "projectID": 235279,
-      "fileID": 3376782,
-      "required": true,
-      "__meta": {
-        "name": "Chisel",
-        "dependencies": [
-          267602
-        ]
       }
     },
     {
@@ -406,14 +376,6 @@
         "dependencies": [
           222880
         ]
-      }
-    },
-    {
-      "projectID": 306770,
-      "fileID": 3847029,
-      "required": true,
-      "__meta": {
-        "name": "Patchouli"
       }
     },
     {
