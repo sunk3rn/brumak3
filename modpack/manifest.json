@@ -1,0 +1,618 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.2.34",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1",
+  "author": "",
+  "name": "brumak3",
+  "files": [
+    {
+      "projectID": 32274,
+      "fileID": 3841569,
+      "required": true,
+      "__meta": {
+        "name": "JourneyMap"
+      }
+    },
+    {
+      "projectID": 59751,
+      "fileID": 3861029,
+      "required": true,
+      "__meta": {
+        "name": "Forestry",
+        "dependencies": [
+          306770
+        ]
+      }
+    },
+    {
+      "projectID": 60028,
+      "fileID": 3652924,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2"
+      }
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3202662,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 69162,
+      "fileID": 3788884,
+      "required": true,
+      "__meta": {
+        "name": "CoFH Core"
+      }
+    },
+    {
+      "projectID": 69163,
+      "fileID": 3788892,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Expansion",
+        "dependencies": [
+          222880
+        ]
+      }
+    },
+    {
+      "projectID": 74072,
+      "fileID": 3695126,
+      "required": true,
+      "__meta": {
+        "name": "Tinkers Construct",
+        "dependencies": [
+          74924
+        ]
+      }
+    },
+    {
+      "projectID": 74924,
+      "fileID": 3631982,
+      "required": true,
+      "__meta": {
+        "name": "Mantle"
+      }
+    },
+    {
+      "projectID": 220318,
+      "fileID": 3823991,
+      "required": true,
+      "__meta": {
+        "name": "Biomes O' Plenty"
+      }
+    },
+    {
+      "projectID": 222880,
+      "fileID": 3788893,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Foundation",
+        "dependencies": [
+          69162
+        ]
+      }
+    },
+    {
+      "projectID": 223794,
+      "fileID": 3608871,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2"
+      }
+    },
+    {
+      "projectID": 224712,
+      "fileID": 3732265,
+      "required": true,
+      "__meta": {
+        "name": "Wawla - What Are We Looking At",
+        "dependencies": [
+          228525,
+          253449
+        ]
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3732239,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
+      "projectID": 228756,
+      "fileID": 3543538,
+      "required": true,
+      "__meta": {
+        "name": "Iron Chests"
+      }
+    },
+    {
+      "projectID": 230976,
+      "fileID": 3590413,
+      "required": true,
+      "__meta": {
+        "name": "Fast Leaf Decay"
+      }
+    },
+    {
+      "projectID": 231095,
+      "fileID": 3593643,
+      "required": true,
+      "__meta": {
+        "name": "Chisels & Bits - For Forge"
+      }
+    },
+    {
+      "projectID": 231484,
+      "fileID": 3445172,
+      "required": true,
+      "__meta": {
+        "name": "Cooking for Blockheads"
+      }
+    },
+    {
+      "projectID": 231951,
+      "fileID": 3809596,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Engineering"
+      }
+    },
+    {
+      "projectID": 233019,
+      "fileID": 3798940,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements"
+      }
+    },
+    {
+      "projectID": 235279,
+      "fileID": 3376782,
+      "required": true,
+      "__meta": {
+        "name": "Chisel",
+        "dependencies": [
+          267602
+        ]
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3681294,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 238372,
+      "fileID": 3182258,
+      "required": true,
+      "__meta": {
+        "name": "Neat"
+      }
+    },
+    {
+      "projectID": 242818,
+      "fileID": 3681973,
+      "required": true,
+      "__meta": {
+        "name": "CodeChicken Lib 1.8.+"
+      }
+    },
+    {
+      "projectID": 243076,
+      "fileID": 3807951,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage"
+      }
+    },
+    {
+      "projectID": 244256,
+      "fileID": 3242601,
+      "required": true,
+      "__meta": {
+        "name": "Reap Mod"
+      }
+    },
+    {
+      "projectID": 245174,
+      "fileID": 3737982,
+      "required": true,
+      "__meta": {
+        "name": "Ender Storage 1.8.+",
+        "dependencies": [
+          242818
+        ]
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3515707,
+      "required": true,
+      "__meta": {
+        "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 247921,
+      "fileID": 3870739,
+      "required": true,
+      "__meta": {
+        "name": "ZeroCore 2"
+      }
+    },
+    {
+      "projectID": 248020,
+      "fileID": 3603093,
+      "required": true,
+      "__meta": {
+        "name": "Flux Networks"
+      }
+    },
+    {
+      "projectID": 250277,
+      "fileID": 3855568,
+      "required": true,
+      "__meta": {
+        "name": "Extreme Reactors",
+        "dependencies": [
+          247921
+        ]
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 3531453,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 253449,
+      "fileID": 3033593,
+      "required": true,
+      "__meta": {
+        "name": "Hwyla"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3658432,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 267602,
+      "fileID": 3137659,
+      "required": true,
+      "__meta": {
+        "name": "ConnectedTexturesMod"
+      }
+    },
+    {
+      "projectID": 268250,
+      "fileID": 3872407,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Petroleum",
+        "dependencies": [
+          231951,
+          231951
+        ]
+      }
+    },
+    {
+      "projectID": 268560,
+      "fileID": 3659389,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism"
+      }
+    },
+    {
+      "projectID": 268566,
+      "fileID": 3659391,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Generators",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
+      "projectID": 268567,
+      "fileID": 3659392,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Tools",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
+      "projectID": 272302,
+      "fileID": 3527508,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage Addons",
+        "dependencies": [
+          243076
+        ]
+      }
+    },
+    {
+      "projectID": 274259,
+      "fileID": 3579466,
+      "required": true,
+      "__meta": {
+        "name": "Carry On"
+      }
+    },
+    {
+      "projectID": 276951,
+      "fileID": 3681503,
+      "required": true,
+      "__meta": {
+        "name": "Comforts (Forge)"
+      }
+    },
+    {
+      "projectID": 282001,
+      "fileID": 3845704,
+      "required": true,
+      "__meta": {
+        "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 289310,
+      "fileID": 3381163,
+      "required": true,
+      "__meta": {
+        "name": "Camera Mod"
+      }
+    },
+    {
+      "projectID": 291737,
+      "fileID": 3788896,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Innovation",
+        "dependencies": [
+          222880
+        ]
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3847029,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli"
+      }
+    },
+    {
+      "projectID": 316582,
+      "fileID": 3832960,
+      "required": true,
+      "__meta": {
+        "name": "Corpse"
+      }
+    },
+    {
+      "projectID": 316867,
+      "fileID": 3605071,
+      "required": true,
+      "__meta": {
+        "name": "Electrodynamics"
+      }
+    },
+    {
+      "projectID": 345425,
+      "fileID": 3659393,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Additions",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
+      "projectID": 351725,
+      "fileID": 3793694,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges"
+      }
+    },
+    {
+      "projectID": 351748,
+      "fileID": 3279909,
+      "required": true,
+      "__meta": {
+        "name": "Mining Gadgets"
+      }
+    },
+    {
+      "projectID": 361385,
+      "fileID": 3276350,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Crops"
+      }
+    },
+    {
+      "projectID": 365460,
+      "fileID": 3281234,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Trees"
+      }
+    },
+    {
+      "projectID": 372534,
+      "fileID": 3190867,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Food Core"
+      }
+    },
+    {
+      "projectID": 377448,
+      "fileID": 3581611,
+      "required": true,
+      "__meta": {
+        "name": "Beyond Earth (Forge)"
+      }
+    },
+    {
+      "projectID": 378646,
+      "fileID": 3683705,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Doors"
+      }
+    },
+    {
+      "projectID": 382216,
+      "fileID": 3607198,
+      "required": true,
+      "__meta": {
+        "name": "Blueprint"
+      }
+    },
+    {
+      "projectID": 402231,
+      "fileID": 3418627,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Food Extended",
+        "dependencies": [
+          372534
+        ]
+      }
+    },
+    {
+      "projectID": 406959,
+      "fileID": 3788895,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Locomotion",
+        "dependencies": [
+          222880
+        ]
+      }
+    },
+    {
+      "projectID": 407780,
+      "fileID": 3407098,
+      "required": true,
+      "__meta": {
+        "name": "Bigger Reactors",
+        "dependencies": [
+          412551
+        ]
+      }
+    },
+    {
+      "projectID": 412551,
+      "fileID": 3397407,
+      "required": true,
+      "__meta": {
+        "name": "Phosphophyllite"
+      }
+    },
+    {
+      "projectID": 422301,
+      "fileID": 3847445,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 442508,
+      "fileID": 3534647,
+      "required": true,
+      "__meta": {
+        "name": "When Dungeons Arise - Forge!"
+      }
+    },
+    {
+      "projectID": 443915,
+      "fileID": 3521912,
+      "required": true,
+      "__meta": {
+        "name": "Ballistix",
+        "dependencies": [
+          316867
+        ]
+      }
+    },
+    {
+      "projectID": 453925,
+      "fileID": 3817469,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Fences and Walls"
+      }
+    },
+    {
+      "projectID": 502561,
+      "fileID": 3494718,
+      "required": true,
+      "__meta": {
+        "name": "Equipment Compare",
+        "dependencies": [
+          520110
+        ]
+      }
+    },
+    {
+      "projectID": 520110,
+      "fileID": 3788411,
+      "required": true,
+      "__meta": {
+        "name": "Iceberg"
+      }
+    },
+    {
+      "projectID": 605641,
+      "fileID": 3828034,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Fences - Biomes O' Plenty",
+        "dependencies": [
+          453925,
+          220318
+        ]
+      }
+    }
+  ]
+}
